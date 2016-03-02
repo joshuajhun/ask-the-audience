@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/joshuajhun/ask-the-audience/issues"
   },
-  "homepage": "https://github.com/joshuajhun/ask-the-audience#readme"
+  "homepage": "https://github.com/joshuajhun/ask-the-audience#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
 }

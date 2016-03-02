@@ -1,0 +1,24 @@
+{
+  "name": "ask-the-audience",
+  "version": "1.0.0",
+  "description": "an application that uses web-sockets to get real time data.",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuajhun/ask-the-audience.git"
+  },
+  "keywords": [
+    "node",
+    "web-sockets"
+  ],
+  "author": "Jhun de Andrs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuajhun/ask-the-audience/issues"
+  },
+  "homepage": "https://github.com/joshuajhun/ask-the-audience#readme"
+}

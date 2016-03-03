@@ -31,6 +31,7 @@ socket.on('voteCount', function (votes) {
    votesOnPage.innerText = currentVote
 });
 
+
 var currentVoteItem = document.getElementById('vote-item')
 socket.on('currentVoteCount',function(votes){
           currentVoteItem.innerText = votes
